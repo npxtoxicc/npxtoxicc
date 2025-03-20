@@ -1,6 +1,6 @@
 # Rüfət 1.0 – README.md
 
-![Rufat's GitHub Banner](https://fakeimg.pl/1000x300/007bff/ffffff?text=R%C3%BCf%C9%99t+1.0+%7C+Hakaton+Ma%C5%9F%C4%B1n%C4%B1+%7C+Teknofest+%7C+AI+Enthusiast)
+![Rufat's GitHub Banner](https://fakeimg.pl/1000x300/007bff/ffffff?text=HACKATHON+MANIAC)
 
 ## 🚀 About Me
 
