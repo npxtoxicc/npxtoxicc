@@ -49,9 +49,9 @@ print("Achievements unlocked: " + ", ".join(achievements))
 - [ ] Add more epic achievements to this list
 
 ## 🛠️ Tech Stack & Tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RufatHakaton&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npxtoxicc&layout=compact&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RufatHakaton&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=npxtoxicc&show_icons=true&theme=radical)
 
 ## 📝 License
 **MIT License** – Open-source inspiration, but **Rüfət 1.0™ cannot be cloned!** 😂
