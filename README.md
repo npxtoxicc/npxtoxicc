@@ -1,4 +1,4 @@
-# Rüfət 1.0 – README.md
+# Rufat Azizzade
 
 ![Rufat's GitHub Banner](https://fakeimg.pl/1000x300/007bff/ffffff?text=HACKATHON+MANIAC)
 
